@@ -8,6 +8,7 @@ public class BootrestbookapiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootrestbookapiApplication.class, args);
+		System.out.println("welcome to rest api program");
 	}
 
 }
